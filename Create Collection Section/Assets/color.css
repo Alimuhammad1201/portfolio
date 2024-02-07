@@ -1,0 +1,14 @@
+.gradient-text {
+    background: linear-gradient(90deg, blue, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.box:hover p{
+    color: white !important ;
+}
+
+.box:hover i{
+    color: white !important ;
+}
